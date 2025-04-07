@@ -1,4 +1,4 @@
 # Demo
 This is Trial Purposes
 
-Author - Nizamuddin Patel
+Author - Nizamuddin Patel (Techno)
